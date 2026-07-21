@@ -1,0 +1,181 @@
+Product_ID,Product_Name,Category,Brand,Unit_Price,GST_Percentage,Supplier_Name,Manufacturing_Date,Expiry_Date,Stock_Quantity,Reorder_Level,Unit,Status
+PROD0001,Galaxy A56,Electronics,Samsung,45445,18,Sai Enterprises,2025-08-19,,49,30,Nos,Active
+PROD0002,Galaxy A56 Variant 2,Electronics,Samsung,12156,18,Star Suppliers,2025-10-04,,318,20,Litre,Discontinued
+PROD0003,43 Smart TV,Electronics,LG,9105,18,Star Suppliers,2025-07-27,,437,30,Nos,Active
+PROD0004,43 Smart TV Variant 2,Electronics,LG,51810,18,Global Supply Co,2025-06-28,,238,40,Litre,Active
+PROD0005,Pavilion Laptop,Electronics,HP,50393,18,National Traders,2024-12-17,,393,50,Kg,Active
+PROD0006,Pavilion Laptop Variant 2,Electronics,HP,18475,18,Global Supply Co,2025-11-15,,59,40,Kg,Active
+PROD0007,Inspiron 15,Electronics,Dell,79008,18,Shree Agencies,2024-11-13,,351,50,Kg,Active
+PROD0008,Inspiron 15 Variant 2,Electronics,Dell,5957,18,Global Supply Co,2024-05-12,,398,30,Litre,Active
+PROD0009,Wireless Headphones,Electronics,Sony,13561,18,Sai Enterprises,2024-10-12,,381,50,Kg,Active
+PROD0010,Wireless Headphones Variant 2,Electronics,Sony,33245,18,Sai Enterprises,2025-08-26,,113,40,Kg,Discontinued
+PROD0011,ThinkPad E14,Electronics,Lenovo,73069,18,Global Supply Co,2025-07-26,,220,50,Litre,Active
+PROD0012,ThinkPad E14 Variant 2,Electronics,Lenovo,86137,18,National Traders,2025-09-07,,46,20,Nos,Active
+PROD0013,Bluetooth Speaker,Electronics,Philips,50659,18,Global Supply Co,2024-09-15,,197,40,Litre,Active
+PROD0014,Bluetooth Speaker Variant 2,Electronics,Philips,64078,18,Shree Agencies,2025-05-05,,444,30,Nos,Active
+PROD0015,Airdopes 311,Electronics,Boat,22215,18,Shree Agencies,2025-06-14,,207,30,Kg,Active
+PROD0016,Airdopes 311 Variant 2,Electronics,Boat,86419,18,Global Supply Co,2025-05-19,,202,20,Nos,Active
+PROD0017,Inkjet Printer,Electronics,Canon,36970,18,ABC Distributors,2024-08-20,,260,30,Kg,Active
+PROD0018,Inkjet Printer Variant 2,Electronics,Canon,65845,18,Sai Enterprises,2025-03-20,,424,40,Nos,Active
+PROD0019,iPad 11,Electronics,Apple,63707,18,Prime Wholesale,2025-11-02,,94,50,Kg,Active
+PROD0020,iPad 11 Variant 2,Electronics,Apple,5804,18,Shree Agencies,2024-09-14,,128,40,Pack,Active
+PROD0021,Atta 10 Kg,Grocery,Aashirvaad,1134,5,Prime Wholesale,2024-05-13,2026-05-13,292,30,Nos,Active
+PROD0022,Atta 10 Kg Variant 2,Grocery,Aashirvaad,28,5,ABC Distributors,2024-11-29,2026-11-29,369,50,Nos,Active
+PROD0023,Salt 1 Kg,Grocery,Tata,411,5,Global Supply Co,2024-03-05,2026-03-05,246,40,Pack,Active
+PROD0024,Salt 1 Kg Variant 2,Grocery,Tata,1112,5,Shree Agencies,2025-04-03,2027-04-03,90,50,Nos,Active
+PROD0025,Butter 500 g,Grocery,Amul,1394,5,Prime Wholesale,2025-10-20,2027-10-20,358,40,Pack,Active
+PROD0026,Butter 500 g Variant 2,Grocery,Amul,469,5,Shree Agencies,2025-03-17,2027-03-17,283,50,Kg,Active
+PROD0027,Sunflower Oil 5 L,Grocery,Fortune,208,5,Star Suppliers,2025-01-28,2027-01-28,189,40,Nos,Active
+PROD0028,Sunflower Oil 5 L Variant 2,Grocery,Fortune,234,5,Global Supply Co,2025-03-08,2027-03-08,454,40,Litre,Active
+PROD0029,Basmati Rice 5 Kg,Grocery,India Gate,689,5,Star Suppliers,2025-10-11,2027-10-11,65,40,Nos,Active
+PROD0030,Basmati Rice 5 Kg Variant 2,Grocery,India Gate,561,5,Metro Distributors,2024-05-12,2026-05-12,42,30,Nos,Active
+PROD0031,Marie Gold,Grocery,Britannia,390,5,ABC Distributors,2025-05-27,2027-05-27,364,30,Kg,Active
+PROD0032,Marie Gold Variant 2,Grocery,Britannia,95,5,Sai Enterprises,2024-09-08,2026-09-08,498,50,Nos,Active
+PROD0033,Garam Masala,Grocery,MDH,1033,5,ABC Distributors,2024-07-22,2026-07-22,446,30,Litre,Active
+PROD0034,Garam Masala Variant 2,Grocery,MDH,285,5,Metro Distributors,2025-11-12,2027-11-12,450,50,Kg,Active
+PROD0035,Milk Powder,Grocery,Nestle,960,5,Metro Distributors,2025-07-14,2027-07-14,185,30,Nos,Active
+PROD0036,Milk Powder Variant 2,Grocery,Nestle,750,5,National Traders,2025-11-02,2027-11-02,122,30,Nos,Active
+PROD0037,Tea Gold,Grocery,Tata,838,5,Global Supply Co,2025-06-25,2027-06-25,456,30,Litre,Active
+PROD0038,Tea Gold Variant 2,Grocery,Tata,601,5,ABC Distributors,2025-06-01,2027-06-01,91,20,Pack,Active
+PROD0039,G Biscuits,Grocery,Parle,1324,5,Global Supply Co,2025-10-03,2027-10-03,292,30,Litre,Active
+PROD0040,G Biscuits Variant 2,Grocery,Parle,163,5,Global Supply Co,2024-09-28,2026-09-28,140,30,Pack,Active
+PROD0041,Men T-Shirt,Clothing,Puma,1028,12,Metro Distributors,2025-10-20,,121,20,Pack,Active
+PROD0042,Men T-Shirt Variant 2,Clothing,Puma,1493,12,Metro Distributors,2024-08-10,,365,50,Kg,Active
+PROD0043,Running Shoes,Clothing,Nike,4220,12,Sai Enterprises,2024-10-23,,254,20,Litre,Active
+PROD0044,Running Shoes Variant 2,Clothing,Nike,1011,12,Star Suppliers,2024-05-15,,328,40,Nos,Active
+PROD0045,Slim Jeans,Clothing,Levis,3628,12,Shree Agencies,2024-05-24,,233,40,Litre,Active
+PROD0046,Slim Jeans Variant 2,Clothing,Levis,3171,12,National Traders,2024-09-16,,210,20,Litre,Active
+PROD0047,Formal Shirt,Clothing,Allen Solly,2654,12,Shree Agencies,2024-09-12,,156,50,Kg,Active
+PROD0048,Formal Shirt Variant 2,Clothing,Allen Solly,637,12,Prime Wholesale,2024-02-20,,497,50,Litre,Active
+PROD0049,Track Pants,Clothing,Adidas,4377,12,Star Suppliers,2024-10-15,,172,40,Kg,Active
+PROD0050,Track Pants Variant 2,Clothing,Adidas,4965,12,Shree Agencies,2025-05-27,,483,50,Pack,Active
+PROD0051,Polo T-Shirt,Clothing,US Polo,3901,12,Star Suppliers,2025-07-23,,66,40,Pack,Active
+PROD0052,Polo T-Shirt Variant 2,Clothing,US Polo,3781,12,Star Suppliers,2024-03-04,,275,40,Kg,Active
+PROD0053,Denim Jacket,Clothing,Wrangler,2435,12,Sai Enterprises,2024-02-03,,237,50,Litre,Discontinued
+PROD0054,Denim Jacket Variant 2,Clothing,Wrangler,4235,12,ABC Distributors,2025-11-29,,75,50,Nos,Active
+PROD0055,Trouser,Clothing,Van Heusen,2305,12,Star Suppliers,2025-03-23,,377,20,Nos,Active
+PROD0056,Trouser Variant 2,Clothing,Van Heusen,2231,12,Star Suppliers,2024-11-19,,350,30,Litre,Active
+PROD0057,Shirt,Clothing,Peter England,2918,12,ABC Distributors,2024-08-21,,361,50,Kg,Active
+PROD0058,Shirt Variant 2,Clothing,Peter England,3845,12,Star Suppliers,2024-03-10,,125,50,Pack,Active
+PROD0059,Kurti,Clothing,Biba,2214,12,Prime Wholesale,2024-08-16,,268,50,Nos,Active
+PROD0060,Kurti Variant 2,Clothing,Biba,2144,12,National Traders,2024-07-07,,221,50,Kg,Active
+PROD0061,Induction Cooktop,Home Appliances,Prestige,12957,18,Global Supply Co,2025-11-11,,391,50,Kg,Active
+PROD0062,Induction Cooktop Variant 2,Home Appliances,Prestige,5927,18,Sai Enterprises,2024-07-31,,214,40,Kg,Active
+PROD0063,Mixer Grinder,Home Appliances,Philips,13626,18,Sai Enterprises,2025-04-30,,35,50,Pack,Active
+PROD0064,Mixer Grinder Variant 2,Home Appliances,Philips,31212,18,ABC Distributors,2025-09-12,,193,40,Kg,Active
+PROD0065,Ceiling Fan,Home Appliances,Bajaj,18863,18,Sai Enterprises,2024-04-19,,263,50,Litre,Active
+PROD0066,Ceiling Fan Variant 2,Home Appliances,Bajaj,33341,18,National Traders,2025-09-13,,140,40,Kg,Active
+PROD0067,Microwave Oven,Home Appliances,LG,11281,18,National Traders,2025-07-11,,186,30,Litre,Active
+PROD0068,Microwave Oven Variant 2,Home Appliances,LG,14453,18,National Traders,2024-05-16,,233,50,Pack,Active
+PROD0069,Iron Box,Home Appliances,Havells,19110,18,Prime Wholesale,2024-07-22,,244,30,Pack,Active
+PROD0070,Iron Box Variant 2,Home Appliances,Havells,22186,18,National Traders,2024-08-24,,352,20,Litre,Active
+PROD0071,Washing Machine,Home Appliances,IFB,30179,18,Prime Wholesale,2024-02-21,,117,30,Nos,Active
+PROD0072,Washing Machine Variant 2,Home Appliances,IFB,44365,18,Metro Distributors,2025-01-12,,194,30,Nos,Active
+PROD0073,Air Cooler,Home Appliances,Voltas,1545,18,Global Supply Co,2024-11-15,,59,30,Nos,Active
+PROD0074,Air Cooler Variant 2,Home Appliances,Voltas,26706,18,Metro Distributors,2024-06-16,,223,40,Litre,Active
+PROD0075,Water Heater,Home Appliances,Crompton,37927,18,ABC Distributors,2025-10-21,,120,50,Litre,Active
+PROD0076,Water Heater Variant 2,Home Appliances,Crompton,8240,18,Sai Enterprises,2024-05-13,,27,20,Pack,Active
+PROD0077,Toaster,Home Appliances,Morphy Richards,33860,18,Star Suppliers,2024-06-24,,493,20,Nos,Active
+PROD0078,Toaster Variant 2,Home Appliances,Morphy Richards,32436,18,Star Suppliers,2025-09-27,,372,30,Pack,Active
+PROD0079,Room Heater,Home Appliances,Usha,37855,18,Star Suppliers,2025-01-02,,83,30,Pack,Active
+PROD0080,Room Heater Variant 2,Home Appliances,Usha,44571,18,Star Suppliers,2025-07-17,,454,40,Litre,Active
+PROD0081,Office Chair,Furniture,Nilkamal,34502,18,Global Supply Co,2025-05-16,,258,30,Litre,Active
+PROD0082,Study Table,Furniture,Godrej,8517,18,Prime Wholesale,2024-04-03,,430,50,Nos,Discontinued
+PROD0083,Bookshelf,Furniture,Ikea,5056,18,Global Supply Co,2024-01-27,,458,20,Nos,Active
+PROD0084,Dining Table,Furniture,Durian,56093,18,Global Supply Co,2025-09-20,,160,50,Pack,Active
+PROD0085,Sofa,Furniture,Urban Ladder,34661,18,Sai Enterprises,2024-07-05,,226,30,Kg,Active
+PROD0086,Coffee Table,Furniture,Home Centre,4683,18,Sai Enterprises,2025-08-16,,372,20,Kg,Active
+PROD0087,Plastic Chair,Furniture,Nilkamal,25679,18,Metro Distributors,2025-03-28,,137,30,Nos,Active
+PROD0088,Wardrobe,Furniture,Godrej,50463,18,Prime Wholesale,2025-10-02,,241,50,Kg,Active
+PROD0089,TV Unit,Furniture,Ikea,5064,18,Prime Wholesale,2025-06-19,,202,30,Litre,Active
+PROD0090,Bed,Furniture,Durian,10330,18,Metro Distributors,2025-04-06,,69,20,Pack,Active
+PROD0091,Python Programming,Books,Pearson,1351,0,ABC Distributors,2025-08-15,,247,50,Pack,Active
+PROD0092,DBMS,Books,McGraw Hill,580,0,Sai Enterprises,2024-01-13,,333,30,Pack,Active
+PROD0093,SQL Guide,Books,BPB,330,0,Global Supply Co,2025-07-05,,23,50,Litre,Active
+PROD0094,Learning Python,Books,OReilly,415,0,Sai Enterprises,2024-05-06,,191,40,Nos,Active
+PROD0095,Snowflake Essentials,Books,Packt,644,0,Shree Agencies,2024-09-23,,483,30,Pack,Active
+PROD0096,Mathematics,Books,S Chand,977,0,Star Suppliers,2025-06-27,,377,20,Nos,Active
+PROD0097,Atomic Habits,Books,Penguin,1398,0,Prime Wholesale,2024-01-28,,77,20,Pack,Active
+PROD0098,Deep Work,Books,Harper,1498,0,National Traders,2024-03-08,,458,40,Pack,Active
+PROD0099,Reasoning,Books,Arihant,621,0,National Traders,2025-10-11,,64,40,Litre,Active
+PROD0100,English Grammar,Books,Oxford,889,0,Shree Agencies,2024-09-19,,496,40,Nos,Active
+PROD0101,Football,Sports,Cosco,10429,12,ABC Distributors,2025-03-22,,285,20,Kg,Active
+PROD0102,Football Variant 2,Sports,Cosco,3091,12,National Traders,2024-07-25,,167,20,Nos,Active
+PROD0103,Cricket Bat,Sports,SG,13928,12,National Traders,2024-06-11,,165,30,Pack,Active
+PROD0104,Cricket Bat Variant 2,Sports,SG,10588,12,ABC Distributors,2025-02-14,,495,50,Nos,Active
+PROD0105,Badminton Racket,Sports,Yonex,8511,12,Shree Agencies,2024-08-27,,255,30,Nos,Active
+PROD0106,Badminton Racket Variant 2,Sports,Yonex,3077,12,Star Suppliers,2024-09-20,,316,30,Pack,Active
+PROD0107,Basketball,Sports,Nivia,2832,12,Star Suppliers,2024-11-30,,328,40,Pack,Active
+PROD0108,Basketball Variant 2,Sports,Nivia,6595,12,National Traders,2024-10-31,,242,40,Pack,Active
+PROD0109,Sports Bag,Sports,Puma,6837,12,Metro Distributors,2025-05-27,,343,40,Litre,Discontinued
+PROD0110,Sports Bag Variant 2,Sports,Puma,11787,12,Global Supply Co,2025-10-30,,470,30,Pack,Active
+PROD0111,Football Shoes,Sports,Nike,14959,12,ABC Distributors,2025-10-06,,100,40,Litre,Active
+PROD0112,Football Shoes Variant 2,Sports,Nike,14955,12,Star Suppliers,2025-05-16,,484,20,Nos,Active
+PROD0113,Gym Gloves,Sports,Adidas,14179,12,Sai Enterprises,2025-05-02,,282,20,Kg,Active
+PROD0114,Gym Gloves Variant 2,Sports,Adidas,12796,12,Sai Enterprises,2024-12-30,,346,20,Kg,Active
+PROD0115,Yoga Mat,Sports,Decathlon,11740,12,Star Suppliers,2024-04-21,,134,40,Litre,Active
+PROD0116,Yoga Mat Variant 2,Sports,Decathlon,13023,12,Sai Enterprises,2025-04-25,,348,30,Pack,Active
+PROD0117,Volleyball,Sports,Cosco,6112,12,Global Supply Co,2025-01-20,,371,40,Litre,Active
+PROD0118,Volleyball Variant 2,Sports,Cosco,5548,12,Metro Distributors,2025-09-30,,346,20,Kg,Active
+PROD0119,Cricket Ball,Sports,SG,5619,12,National Traders,2025-10-10,,318,20,Nos,Active
+PROD0120,Cricket Ball Variant 2,Sports,SG,2638,12,Prime Wholesale,2024-12-20,,421,30,Pack,Active
+PROD0121,Soap,Personal Care,Dove,1062,18,Metro Distributors,2025-06-27,2027-06-27,60,50,Nos,Active
+PROD0122,Soap Variant 2,Personal Care,Dove,1041,18,ABC Distributors,2025-05-18,2027-05-18,146,50,Pack,Active
+PROD0123,Toothpaste,Personal Care,Colgate,1003,18,ABC Distributors,2025-03-04,2027-03-04,366,20,Pack,Active
+PROD0124,Toothpaste Variant 2,Personal Care,Colgate,1041,18,Shree Agencies,2024-02-04,2026-02-03,129,50,Pack,Active
+PROD0125,Shampoo,Personal Care,Clinic Plus,941,18,Global Supply Co,2024-09-14,2026-09-14,303,20,Kg,Active
+PROD0126,Shampoo Variant 2,Personal Care,Clinic Plus,466,18,Prime Wholesale,2024-04-30,2026-04-30,189,30,Kg,Active
+PROD0127,Face Wash,Personal Care,Nivea,881,18,Star Suppliers,2024-02-20,2026-02-19,224,40,Nos,Discontinued
+PROD0128,Face Wash Variant 2,Personal Care,Nivea,351,18,Global Supply Co,2025-09-02,2027-09-02,468,20,Pack,Discontinued
+PROD0129,Body Wash,Personal Care,Lux,256,18,Metro Distributors,2025-01-12,2027-01-12,466,30,Kg,Active
+PROD0130,Body Wash Variant 2,Personal Care,Lux,932,18,ABC Distributors,2025-08-15,2027-08-15,498,20,Litre,Active
+PROD0131,Hand Wash,Personal Care,Dettol,187,18,National Traders,2025-01-31,2027-01-31,324,30,Litre,Active
+PROD0132,Hand Wash Variant 2,Personal Care,Dettol,924,18,National Traders,2025-12-01,2027-12-01,362,20,Nos,Active
+PROD0133,Face Cream,Personal Care,Himalaya,973,18,Global Supply Co,2024-02-21,2026-02-20,207,30,Nos,Active
+PROD0134,Face Cream Variant 2,Personal Care,Himalaya,174,18,Prime Wholesale,2025-09-25,2027-09-25,60,50,Kg,Active
+PROD0135,Soap,Personal Care,Pears,948,18,Prime Wholesale,2024-06-19,2026-06-19,94,20,Kg,Active
+PROD0136,Soap Variant 2,Personal Care,Pears,733,18,Metro Distributors,2024-03-03,2026-03-03,338,40,Nos,Active
+PROD0137,Conditioner,Personal Care,Pantene,529,18,ABC Distributors,2024-01-02,2026-01-01,184,40,Kg,Active
+PROD0138,Conditioner Variant 2,Personal Care,Pantene,1073,18,Star Suppliers,2024-03-28,2026-03-28,296,50,Litre,Active
+PROD0139,Tooth Brush,Personal Care,Oral-B,69,18,Metro Distributors,2025-07-07,2027-07-07,64,40,Nos,Active
+PROD0140,Tooth Brush Variant 2,Personal Care,Oral-B,437,18,Shree Agencies,2024-04-04,2026-04-04,112,40,Kg,Active
+PROD0141,Notebook,Stationery,Classmate,390,12,ABC Distributors,2025-04-19,,423,20,Pack,Active
+PROD0142,Notebook Variant 2,Stationery,Classmate,589,12,Metro Distributors,2025-08-23,,310,30,Kg,Active
+PROD0143,Ball Pen,Stationery,Cello,48,12,ABC Distributors,2024-07-24,,112,50,Nos,Discontinued
+PROD0144,Ball Pen Variant 2,Stationery,Cello,132,12,Sai Enterprises,2024-04-02,,151,40,Pack,Active
+PROD0145,Geometry Box,Stationery,Camlin,272,12,Global Supply Co,2024-03-01,,482,20,Nos,Active
+PROD0146,Geometry Box Variant 2,Stationery,Camlin,613,12,Metro Distributors,2025-03-27,,408,20,Litre,Active
+PROD0147,Color Pencils,Stationery,Faber Castell,156,12,Star Suppliers,2024-01-13,,259,30,Nos,Active
+PROD0148,Color Pencils Variant 2,Stationery,Faber Castell,32,12,Global Supply Co,2024-03-17,,251,40,Kg,Active
+PROD0149,Pencil,Stationery,Apsara,194,12,Metro Distributors,2025-04-07,,303,30,Litre,Active
+PROD0150,Pencil Variant 2,Stationery,Apsara,352,12,Global Supply Co,2024-09-23,,271,20,Kg,Active
+PROD0151,Stapler,Stationery,Kangaro,303,12,Metro Distributors,2024-09-20,,406,30,Kg,Active
+PROD0152,Stapler Variant 2,Stationery,Kangaro,68,12,Shree Agencies,2024-05-27,,347,20,Litre,Active
+PROD0153,Notebook,Stationery,Navneet,378,12,Prime Wholesale,2024-02-11,,486,50,Pack,Active
+PROD0154,Notebook Variant 2,Stationery,Navneet,99,12,Star Suppliers,2025-05-22,,409,40,Pack,Active
+PROD0155,Marker,Stationery,Cello,540,12,Global Supply Co,2024-12-09,,164,50,Nos,Discontinued
+PROD0156,Marker Variant 2,Stationery,Cello,47,12,Global Supply Co,2025-01-15,,314,20,Kg,Active
+PROD0157,Eraser,Stationery,Camlin,738,12,Global Supply Co,2025-08-13,,404,20,Kg,Active
+PROD0158,Eraser Variant 2,Stationery,Camlin,259,12,Metro Distributors,2024-08-17,,336,30,Pack,Active
+PROD0159,Drawing Book,Stationery,Classmate,623,12,National Traders,2025-08-13,,257,30,Litre,Active
+PROD0160,Drawing Book Variant 2,Stationery,Classmate,789,12,Star Suppliers,2024-04-22,,82,20,Litre,Active
+PROD0161,Pressure Cooker,Kitchen Essentials,Prestige,453,18,ABC Distributors,2025-10-12,,219,50,Nos,Active
+PROD0162,Pressure Cooker Variant 2,Kitchen Essentials,Prestige,5403,18,Shree Agencies,2025-02-14,,453,20,Kg,Active
+PROD0163,Water Bottle,Kitchen Essentials,Milton,7244,18,Sai Enterprises,2024-07-24,,278,20,Pack,Active
+PROD0164,Water Bottle Variant 2,Kitchen Essentials,Milton,9034,18,ABC Distributors,2024-02-06,,338,20,Kg,Active
+PROD0165,Lunch Box,Kitchen Essentials,Cello,1138,18,Prime Wholesale,2025-08-31,,491,40,Nos,Active
+PROD0166,Lunch Box Variant 2,Kitchen Essentials,Cello,4137,18,Star Suppliers,2024-03-30,,399,40,Litre,Active
+PROD0167,Non Stick Pan,Kitchen Essentials,Pigeon,10190,18,Star Suppliers,2025-05-04,,260,40,Nos,Active
+PROD0168,Non Stick Pan Variant 2,Kitchen Essentials,Pigeon,4058,18,Star Suppliers,2024-11-27,,305,40,Litre,Active
+PROD0169,Gas Stove,Kitchen Essentials,Prestige,10926,18,National Traders,2024-03-04,,284,50,Litre,Active
+PROD0170,Gas Stove Variant 2,Kitchen Essentials,Prestige,10156,18,Prime Wholesale,2024-10-10,,440,20,Litre,Active
+PROD0171,Casserole,Kitchen Essentials,Milton,6662,18,National Traders,2025-08-08,,96,50,Kg,Active
+PROD0172,Casserole Variant 2,Kitchen Essentials,Milton,8769,18,Global Supply Co,2025-07-22,,324,50,Kg,Discontinued
+PROD0173,Storage Container,Kitchen Essentials,Cello,9577,18,Shree Agencies,2025-01-21,,317,30,Nos,Active
+PROD0174,Storage Container Variant 2,Kitchen Essentials,Cello,927,18,Metro Distributors,2024-09-19,,309,50,Kg,Active
+PROD0175,Mixer Jar,Kitchen Essentials,Butterfly,7756,18,National Traders,2025-01-01,,40,40,Litre,Active
+PROD0176,Mixer Jar Variant 2,Kitchen Essentials,Butterfly,2676,18,Shree Agencies,2024-07-11,,235,50,Litre,Active
+PROD0177,Knife Set,Kitchen Essentials,Pigeon,8548,18,Sai Enterprises,2024-06-28,,76,40,Kg,Active
+PROD0178,Knife Set Variant 2,Kitchen Essentials,Pigeon,6904,18,ABC Distributors,2024-07-05,,50,20,Kg,Active
+PROD0179,Cookware Set,Kitchen Essentials,Prestige,1763,18,Metro Distributors,2025-08-23,,27,20,Pack,Active
+PROD0180,Cookware Set Variant 2,Kitchen Essentials,Prestige,2140,18,Prime Wholesale,2024-05-28,,100,20,Nos,Active

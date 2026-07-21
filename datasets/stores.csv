@@ -1,0 +1,31 @@
+Store_ID,Store_Name,Store_Type,City,State,Pincode,Manager_Name,Contact_Number,Opening_Date,Store_Status
+STR001,Bharat Retail Mart - Bengaluru,Hypermarket,Bengaluru,Karnataka,560001,Vivek Gupta,9100000001,2021-02-26,Active
+STR002,Bharat Retail Mart - Mysuru,Supermarket,Mysuru,Karnataka,570001,Lakshmi Nair,9100000002,2023-04-29,Active
+STR003,Bharat Retail Mart - Hubballi,Express,Hubballi,Karnataka,580020,Amit Singh,9100000003,2023-12-01,Active
+STR004,Bharat Retail Mart - Hyderabad,Hypermarket,Hyderabad,Telangana,500001,Arjun Sharma,9100000004,2018-02-27,Active
+STR005,Bharat Retail Mart - Warangal,Supermarket,Warangal,Telangana,506001,Nikhil Gowda,9100000005,2022-10-20,Active
+STR006,Bharat Retail Mart - Chennai,Hypermarket,Chennai,Tamil Nadu,600001,Amit Nair,9100000006,2020-08-11,Active
+STR007,Bharat Retail Mart - Coimbatore,Express,Coimbatore,Tamil Nadu,641001,Rahul Gupta,9100000007,2022-07-25,Active
+STR008,Bharat Retail Mart - Mumbai,Express,Mumbai,Maharashtra,400001,Asha Sharma,9100000008,2021-09-09,Active
+STR009,Bharat Retail Mart - Pune,Express,Pune,Maharashtra,411001,Asha Patil,9100000009,2022-02-18,Active
+STR010,Bharat Retail Mart - Nagpur,Hypermarket,Nagpur,Maharashtra,440001,Amit Patil,9100000010,2019-05-27,Active
+STR011,Bharat Retail Mart - Delhi,Hypermarket,Delhi,Delhi,110001,Asha Reddy,9100000011,2024-03-11,Active
+STR012,Bharat Retail Mart - Jaipur,Express,Jaipur,Rajasthan,302001,Neha Gupta,9100000012,2023-06-09,Closed
+STR013,Bharat Retail Mart - Ahmedabad,Hypermarket,Ahmedabad,Gujarat,380001,Amit Sharma,9100000013,2023-04-09,Active
+STR014,Bharat Retail Mart - Surat,Hypermarket,Surat,Gujarat,395003,Priya Nair,9100000014,2020-05-04,Active
+STR015,Bharat Retail Mart - Kochi,Express,Kochi,Kerala,682001,Arjun Gowda,9100000015,2018-10-18,Active
+STR016,Bharat Retail Mart - Thiruvananthapuram,Hypermarket,Thiruvananthapuram,Kerala,695001,Rohit Joshi,9100000016,2024-04-08,Active
+STR017,Bharat Retail Mart - Lucknow,Supermarket,Lucknow,Uttar Pradesh,226001,Sneha Kulkarni,9100000017,2019-08-22,Active
+STR018,Bharat Retail Mart - Kanpur,Express,Kanpur,Uttar Pradesh,208001,Vivek Iyer,9100000018,2022-02-04,Active
+STR019,Bharat Retail Mart - Bhopal,Supermarket,Bhopal,Madhya Pradesh,462001,Rohit Gupta,9100000019,2021-07-26,Active
+STR020,Bharat Retail Mart - Indore,Supermarket,Indore,Madhya Pradesh,452001,Vivek Iyer,9100000020,2018-04-20,Active
+STR021,Bharat Retail Mart - Bhubaneswar,Hypermarket,Bhubaneswar,Odisha,751001,Amit Joshi,9100000021,2018-01-12,Active
+STR022,Bharat Retail Mart - Cuttack,Supermarket,Cuttack,Odisha,753001,Priya Singh,9100000022,2024-09-21,Active
+STR023,Bharat Retail Mart - Patna,Express,Patna,Bihar,800001,Rohit Nair,9100000023,2024-05-29,Active
+STR024,Bharat Retail Mart - Ranchi,Express,Ranchi,Jharkhand,834001,Neha Singh,9100000024,2019-04-07,Active
+STR025,Bharat Retail Mart - Visakhapatnam,Hypermarket,Visakhapatnam,Andhra Pradesh,530001,Suresh Reddy,9100000025,2021-11-27,Active
+STR026,Bharat Retail Mart - Vijayawada,Supermarket,Vijayawada,Andhra Pradesh,520001,Neha Gowda,9100000026,2021-06-09,Active
+STR027,Bharat Retail Mart - Goa,Hypermarket,Goa,Goa,403001,Priya Reddy,9100000027,2018-09-26,Closed
+STR028,Bharat Retail Mart - Chandigarh,Hypermarket,Chandigarh,Chandigarh,160017,Arjun Gupta,9100000028,2022-03-16,Active
+STR029,Bharat Retail Mart - Guwahati,Hypermarket,Guwahati,Assam,781001,Suresh Sharma,9100000029,2023-10-30,Active
+STR030,Bharat Retail Mart - Srinagar,Express,Srinagar,Jammu and Kashmir,190001,Sneha Gupta,9100000030,2019-10-31,Active

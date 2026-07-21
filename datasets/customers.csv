@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,Gender,Date_of_Birth,Mobile_Number,Email,City,State,Pincode,Registration_Date,Customer_Type,Status
+CUST0001,Manoj Patil,Male,1966-02-14,9000000001,manoj.patil001@gmail.com,Chennai,Tamil Nadu,600001,2025-02-27,Retail,Active
+CUST0002,Pooja Nair,Female,1971-04-06,9000000002,pooja.nair002@gmail.com,Mysuru,Karnataka,570001,2025-02-17,Retail,Active
+CUST0003,Manoj Das,Male,2005-01-08,9000000003,manoj.das003@gmail.com,Mysuru,Karnataka,570001,2026-01-28,Retail,Active
+CUST0004,Shreya Gupta,Female,1966-06-05,9000000004,shreya.gupta004@gmail.com,Mysuru,Karnataka,570001,2021-03-03,Retail,Active
+CUST0005,Kiran Nair,Male,1987-09-02,9000000005,kiran.nair005@gmail.com,Bengaluru,Karnataka,560001,2024-05-17,Premium,Active
+CUST0006,Divya Nair,Female,1997-02-13,9000000006,divya.nair006@gmail.com,Lucknow,Uttar Pradesh,226001,2024-08-23,Retail,Active
+CUST0007,Prakash Gupta,Male,1974-11-21,9000000007,prakash.gupta007@gmail.com,Ahmedabad,Gujarat,380001,2023-07-09,Retail,Active
+CUST0008,Meera Mishra,Female,2003-12-30,9000000008,meera.mishra008@gmail.com,Bhopal,Madhya Pradesh,462001,2022-01-12,Retail,Active
+CUST0009,Sanjay Reddy,Male,1996-04-26,9000000009,sanjay.reddy009@gmail.com,Mumbai,Maharashtra,400001,2023-05-16,Retail,Active
+CUST0010,Meera Reddy,Female,1974-08-29,9000000010,meera.reddy010@gmail.com,Bhopal,Madhya Pradesh,462001,2026-05-15,Premium,Inactive
+CUST0011,Rohit Patil,Male,1969-02-28,9000000011,rohit.patil011@gmail.com,Mysuru,Karnataka,570001,2023-02-18,Retail,Active
+CUST0012,Kavya Kumar,Female,1980-06-06,9000000012,kavya.kumar012@gmail.com,Chennai,Tamil Nadu,600001,2024-05-21,Retail,Active
+CUST0013,Sanjay Sharma,Male,1997-09-25,9000000013,sanjay.sharma013@gmail.com,Jaipur,Rajasthan,302001,2023-07-30,Retail,Active
+CUST0014,Sneha Gowda,Female,1981-12-24,9000000014,sneha.gowda014@gmail.com,Jaipur,Rajasthan,302001,2021-06-11,Retail,Active
+CUST0015,Suresh Kumar,Male,1993-03-14,9000000015,suresh.kumar015@gmail.com,Bhubaneswar,Odisha,751001,2024-06-20,Premium,Active
+CUST0016,Ritu Kulkarni,Female,1990-11-25,9000000016,ritu.kulkarni016@gmail.com,Lucknow,Uttar Pradesh,226001,2022-01-29,Retail,Active
+CUST0017,Amit Sharma,Male,1994-08-31,9000000017,amit.sharma017@gmail.com,Bhopal,Madhya Pradesh,462001,2022-04-12,Retail,Active
+CUST0018,Meera Patil,Female,2003-05-15,9000000018,meera.patil018@gmail.com,Nagpur,Maharashtra,440001,2022-09-03,Retail,Active
+CUST0019,Amit Gupta,Male,1977-06-21,9000000019,amit.gupta019@gmail.com,Kochi,Kerala,682001,2023-07-18,Retail,Active
+CUST0020,Ritu Kulkarni,Female,1972-04-18,9000000020,ritu.kulkarni020@gmail.com,Mumbai,Maharashtra,400001,2023-01-29,Premium,Inactive
+CUST0021,Kiran Singh,Male,1976-12-23,9000000021,kiran.singh021@gmail.com,Bhubaneswar,Odisha,751001,2024-12-08,Retail,Active
+CUST0022,Nisha Singh,Female,1968-03-15,9000000022,nisha.singh022@gmail.com,Kochi,Kerala,682001,2024-06-01,Retail,Active
+CUST0023,Vivek Joshi,Male,1997-09-16,9000000023,vivek.joshi023@gmail.com,Hubballi,Karnataka,580020,2022-05-17,Retail,Active
+CUST0024,Anjali Gupta,Female,1977-02-09,9000000024,anjali.gupta024@gmail.com,Kochi,Kerala,682001,2026-03-11,Retail,Active
+CUST0025,Deepak Joshi,Male,1974-11-08,9000000025,deepak.joshi025@gmail.com,Mumbai,Maharashtra,400001,2024-11-03,Premium,Active
+CUST0026,Ritu Mishra,Female,1999-10-23,9000000026,ritu.mishra026@gmail.com,Hyderabad,Telangana,500001,2021-04-25,Retail,Active
+CUST0027,Ajay Sharma,Male,2001-02-10,9000000027,ajay.sharma027@gmail.com,Pune,Maharashtra,411001,2022-10-09,Retail,Active
+CUST0028,Meera Patil,Female,1974-06-19,9000000028,meera.patil028@gmail.com,Ahmedabad,Gujarat,380001,2026-02-14,Retail,Active
+CUST0029,Ramesh Das,Male,1979-02-12,9000000029,ramesh.das029@gmail.com,Kochi,Kerala,682001,2022-03-12,Retail,Active
+CUST0030,Anjali Gupta,Female,2004-09-07,9000000030,anjali.gupta030@gmail.com,Delhi,Delhi,110001,2026-04-15,Premium,Inactive
+CUST0031,Vivek Iyer,Male,1971-04-07,9000000031,vivek.iyer031@gmail.com,Lucknow,Uttar Pradesh,226001,2022-05-21,Retail,Active
+CUST0032,Divya Joshi,Female,1976-10-14,9000000032,divya.joshi032@gmail.com,Ahmedabad,Gujarat,380001,2025-03-10,Retail,Active
+CUST0033,Arjun Gowda,Male,1991-03-06,9000000033,arjun.gowda033@gmail.com,Mumbai,Maharashtra,400001,2023-03-29,Retail,Active
+CUST0034,Pooja Reddy,Female,1987-11-10,9000000034,pooja.reddy034@gmail.com,Mysuru,Karnataka,570001,2023-10-08,Retail,Active
+CUST0035,Sanjay Sharma,Male,2003-08-18,9000000035,sanjay.sharma035@gmail.com,Hubballi,Karnataka,580020,2022-03-30,Premium,Active
+CUST0036,Nisha Reddy,Female,2000-07-13,9000000036,nisha.reddy036@gmail.com,Pune,Maharashtra,411001,2024-10-25,Retail,Active
+CUST0037,Anand Patil,Male,1982-04-06,9000000037,anand.patil037@gmail.com,Ahmedabad,Gujarat,380001,2023-02-21,Retail,Active
+CUST0038,Anjali Joshi,Female,1976-04-12,9000000038,anjali.joshi038@gmail.com,Jaipur,Rajasthan,302001,2026-06-12,Retail,Active
+CUST0039,Ajay Sharma,Male,1995-07-08,9000000039,ajay.sharma039@gmail.com,Mysuru,Karnataka,570001,2025-01-16,Retail,Active
+CUST0040,Nisha Gowda,Female,1989-02-01,9000000040,nisha.gowda040@gmail.com,Chennai,Tamil Nadu,600001,2025-03-18,Premium,Inactive
+CUST0041,Sanjay Singh,Male,1980-04-05,9000000041,sanjay.singh041@gmail.com,Chennai,Tamil Nadu,600001,2021-08-17,Retail,Active
+CUST0042,Neha Reddy,Female,1985-05-09,9000000042,neha.reddy042@gmail.com,Lucknow,Uttar Pradesh,226001,2021-01-07,Retail,Active
+CUST0043,Ramesh Das,Male,1976-10-25,9000000043,ramesh.das043@gmail.com,Jaipur,Rajasthan,302001,2026-06-14,Retail,Active
+CUST0044,Swati Reddy,Female,1987-10-10,9000000044,swati.reddy044@gmail.com,Mysuru,Karnataka,570001,2026-02-13,Retail,Active
+CUST0045,Ajay Singh,Male,1978-05-22,9000000045,ajay.singh045@gmail.com,Kochi,Kerala,682001,2025-09-20,Premium,Active
+CUST0046,Divya Yadav,Female,1973-12-03,9000000046,divya.yadav046@gmail.com,Mumbai,Maharashtra,400001,2021-11-10,Retail,Active
+CUST0047,Sanjay Reddy,Male,1989-03-13,9000000047,sanjay.reddy047@gmail.com,Bhopal,Madhya Pradesh,462001,2026-05-07,Retail,Active
+CUST0048,Anita Joshi,Female,1965-01-10,9000000048,anita.joshi048@gmail.com,Mumbai,Maharashtra,400001,2024-05-11,Retail,Active
+CUST0049,Nikhil Sharma,Male,1970-01-07,9000000049,nikhil.sharma049@gmail.com,Mumbai,Maharashtra,400001,2026-03-18,Retail,Active
+CUST0050,Anita Kumar,Female,2001-03-11,9000000050,anita.kumar050@gmail.com,Hyderabad,Telangana,500001,2022-09-22,Premium,Inactive
+CUST0051,Rahul Nair,Male,2004-05-21,9000000051,rahul.nair051@gmail.com,Mysuru,Karnataka,570001,2025-07-25,Retail,Active
+CUST0052,Sneha Das,Female,1986-10-20,9000000052,sneha.das052@gmail.com,Mysuru,Karnataka,570001,2025-07-30,Retail,Active
+CUST0053,Sanjay Joshi,Male,1999-05-10,9000000053,sanjay.joshi053@gmail.com,Hubballi,Karnataka,580020,2021-09-15,Retail,Active
+CUST0054,Nisha Verma,Female,1989-08-30,9000000054,nisha.verma054@gmail.com,Chennai,Tamil Nadu,600001,2021-12-05,Retail,Active
+CUST0055,Prakash Kumar,Male,1992-03-18,9000000055,prakash.kumar055@gmail.com,Hyderabad,Telangana,500001,2023-05-17,Premium,Active
+CUST0056,Anita Joshi,Female,1998-11-18,9000000056,anita.joshi056@gmail.com,Lucknow,Uttar Pradesh,226001,2025-02-03,Retail,Active
+CUST0057,Kiran Das,Male,1978-12-26,9000000057,kiran.das057@gmail.com,Kochi,Kerala,682001,2023-03-29,Retail,Active
+CUST0058,Nisha Kulkarni,Female,1984-08-26,9000000058,nisha.kulkarni058@gmail.com,Jaipur,Rajasthan,302001,2026-01-17,Retail,Active
+CUST0059,Nikhil Patil,Male,1976-02-14,9000000059,nikhil.patil059@gmail.com,Mysuru,Karnataka,570001,2022-04-06,Retail,Active
+CUST0060,Kavya Sharma,Female,1991-05-23,9000000060,kavya.sharma060@gmail.com,Hyderabad,Telangana,500001,2024-02-09,Premium,Inactive
+CUST0061,Anand Nair,Male,1965-04-28,9000000061,anand.nair061@gmail.com,Lucknow,Uttar Pradesh,226001,2021-05-26,Retail,Active
+CUST0062,Nisha Sharma,Female,1975-04-09,9000000062,nisha.sharma062@gmail.com,Bhubaneswar,Odisha,751001,2021-05-19,Retail,Active
+CUST0063,Rahul Kumar,Male,1979-10-28,9000000063,rahul.kumar063@gmail.com,Jaipur,Rajasthan,302001,2021-05-26,Retail,Active
+CUST0064,Pooja Iyer,Female,1995-01-04,9000000064,pooja.iyer064@gmail.com,Hyderabad,Telangana,500001,2023-09-22,Retail,Active
+CUST0065,Prakash Reddy,Male,1997-06-13,9000000065,prakash.reddy065@gmail.com,Bhubaneswar,Odisha,751001,2026-03-31,Premium,Active
+CUST0066,Shreya Yadav,Female,1986-03-16,9000000066,shreya.yadav066@gmail.com,Bhopal,Madhya Pradesh,462001,2022-05-13,Retail,Active
+CUST0067,Nikhil Mishra,Male,1983-04-06,9000000067,nikhil.mishra067@gmail.com,Mysuru,Karnataka,570001,2022-01-25,Retail,Active
+CUST0068,Sneha Singh,Female,1984-05-03,9000000068,sneha.singh068@gmail.com,Pune,Maharashtra,411001,2022-12-27,Retail,Active
+CUST0069,Arjun Verma,Male,2003-10-02,9000000069,arjun.verma069@gmail.com,Bengaluru,Karnataka,560001,2025-11-03,Retail,Active
+CUST0070,Nisha Singh,Female,1993-12-27,9000000070,nisha.singh070@gmail.com,Bengaluru,Karnataka,560001,2021-07-21,Premium,Inactive
+CUST0071,Arjun Das,Male,1980-03-22,9000000071,arjun.das071@gmail.com,Nagpur,Maharashtra,440001,2025-06-28,Retail,Active
+CUST0072,Sneha Nair,Female,1973-08-06,9000000072,sneha.nair072@gmail.com,Jaipur,Rajasthan,302001,2022-01-25,Retail,Active
+CUST0073,Nikhil Reddy,Male,1983-12-05,9000000073,nikhil.reddy073@gmail.com,Chennai,Tamil Nadu,600001,2022-01-11,Retail,Active
+CUST0074,Anjali Nair,Female,2004-03-24,9000000074,anjali.nair074@gmail.com,Delhi,Delhi,110001,2022-08-25,Retail,Active
+CUST0075,Sanjay Kumar,Male,2003-05-26,9000000075,sanjay.kumar075@gmail.com,Mysuru,Karnataka,570001,2024-06-26,Premium,Active
+CUST0076,Priya Singh,Female,1989-04-01,9000000076,priya.singh076@gmail.com,Bengaluru,Karnataka,560001,2025-09-09,Retail,Active
+CUST0077,Amit Gowda,Male,1998-10-21,9000000077,amit.gowda077@gmail.com,Hyderabad,Telangana,500001,2025-10-05,Retail,Active
+CUST0078,Asha Gupta,Female,1986-10-14,9000000078,asha.gupta078@gmail.com,Hyderabad,Telangana,500001,2023-09-13,Retail,Active
+CUST0079,Ajay Gupta,Male,2005-06-25,9000000079,ajay.gupta079@gmail.com,Hubballi,Karnataka,580020,2023-10-23,Retail,Active
+CUST0080,Neha Sharma,Female,1982-07-07,9000000080,neha.sharma080@gmail.com,Bhubaneswar,Odisha,751001,2022-06-28,Premium,Inactive
+CUST0081,Sanjay Mishra,Male,1985-05-30,9000000081,sanjay.mishra081@gmail.com,Pune,Maharashtra,411001,2022-08-08,Retail,Active
+CUST0082,Lakshmi Das,Female,2000-02-21,9000000082,lakshmi.das082@gmail.com,Kochi,Kerala,682001,2024-02-13,Retail,Active
+CUST0083,Deepak Verma,Male,1971-12-12,9000000083,deepak.verma083@gmail.com,Chennai,Tamil Nadu,600001,2022-01-24,Retail,Active
+CUST0084,Pooja Sharma,Female,1990-12-25,9000000084,pooja.sharma084@gmail.com,Jaipur,Rajasthan,302001,2025-02-15,Retail,Active
+CUST0085,Rahul Das,Male,1979-01-26,9000000085,rahul.das085@gmail.com,Bengaluru,Karnataka,560001,2021-04-28,Premium,Active
+CUST0086,Shreya Verma,Female,1987-07-23,9000000086,shreya.verma086@gmail.com,Nagpur,Maharashtra,440001,2026-02-26,Retail,Active
+CUST0087,Prakash Reddy,Male,1967-07-21,9000000087,prakash.reddy087@gmail.com,Jaipur,Rajasthan,302001,2026-05-22,Retail,Active
+CUST0088,Sneha Kumar,Female,1973-05-03,9000000088,sneha.kumar088@gmail.com,Ahmedabad,Gujarat,380001,2021-05-21,Retail,Active
+CUST0089,Amit Singh,Male,2003-08-30,9000000089,amit.singh089@gmail.com,Pune,Maharashtra,411001,2022-12-24,Retail,Active
+CUST0090,Sneha Gowda,Female,1990-07-22,9000000090,sneha.gowda090@gmail.com,Ahmedabad,Gujarat,380001,2022-05-20,Premium,Inactive
+CUST0091,Anand Sharma,Male,1992-10-13,9000000091,anand.sharma091@gmail.com,Pune,Maharashtra,411001,2021-06-17,Retail,Active
+CUST0092,Nisha Yadav,Female,1990-05-10,9000000092,nisha.yadav092@gmail.com,Mumbai,Maharashtra,400001,2023-12-07,Retail,Active
+CUST0093,Ramesh Iyer,Male,1974-03-01,9000000093,ramesh.iyer093@gmail.com,Lucknow,Uttar Pradesh,226001,2024-10-03,Retail,Active
+CUST0094,Kavya Nair,Female,1976-11-30,9000000094,kavya.nair094@gmail.com,Hubballi,Karnataka,580020,2023-03-22,Retail,Active
+CUST0095,Manoj Singh,Male,1978-06-17,9000000095,manoj.singh095@gmail.com,Mumbai,Maharashtra,400001,2023-07-26,Premium,Active
+CUST0096,Anita Mishra,Female,1968-04-03,9000000096,anita.mishra096@gmail.com,Delhi,Delhi,110001,2021-01-20,Retail,Active
+CUST0097,Anand Yadav,Male,1969-06-27,9000000097,anand.yadav097@gmail.com,Jaipur,Rajasthan,302001,2021-05-31,Retail,Active
+CUST0098,Pooja Joshi,Female,1976-11-24,9000000098,pooja.joshi098@gmail.com,Bhubaneswar,Odisha,751001,2021-09-29,Retail,Active
+CUST0099,Rohit Gowda,Male,1968-02-02,9000000099,rohit.gowda099@gmail.com,Hyderabad,Telangana,500001,2025-12-06,Retail,Active
+CUST0100,Kavya Iyer,Female,1972-01-29,9000000100,kavya.iyer100@gmail.com,Nagpur,Maharashtra,440001,2023-06-17,Premium,Inactive
