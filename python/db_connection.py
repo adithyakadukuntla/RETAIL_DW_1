@@ -6,24 +6,13 @@ load_dotenv()
 
 
 def get_connection():
-
-    try:
-        connection = sc.connect(
-            user=os.getenv("user"),
-            password=os.getenv("password"),
-            account=os.getenv("account"),
-            warehouse="COMPUTE_WH",
-            database="RETAIL_DW",
-            schema="SALES"
-        )
-
-        print("Connected Successfully! ✅")
-
-        return connection
-
-    except Exception as e:
-        print("Connection Failed ❌")
-        print(e)
-        return None
-
-   
+    connection = sc.connect( 
+        user=os.getenv("user"), 
+        password=os.getenv("password"), 
+        account=os.getenv("account"), 
+        warehouse="COMPUTE_WH", 
+        database=os.getenv('database'), 
+        schema=os.getenv("schema") 
+    ) 
+    print("Connected Successfully! ✅") 
+    return connection
