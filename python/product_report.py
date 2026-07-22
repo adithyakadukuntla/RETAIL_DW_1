@@ -1,5 +1,5 @@
 from db_connection import get_connection
-
+# writing the functionalities
 
 def execute_query(query):
     connection = get_connection()
