@@ -1,17 +1,29 @@
-import os 
+import os
 import snowflake.connector as sc
 from dotenv import load_dotenv
 
 load_dotenv()
 
+
 def get_connection():
-    connection = sc.connect( 
-        user=os.getenv("user"), 
-        password=os.getenv("password"), 
-        account=os.getenv("account"), 
-        warehouse="COMPUTE_WH", 
-        database="INVESCO_TRAINING", 
-        schema="EMPLOYEE_DATA" 
-    ) 
-    print("Connected Successfully! ✅") 
-    return connection
+
+    try:
+        connection = sc.connect(
+            user=os.getenv("user"),
+            password=os.getenv("password"),
+            account=os.getenv("account"),
+            warehouse="COMPUTE_WH",
+            database="RETAIL_DW",
+            schema="SALES"
+        )
+
+        print("Connected Successfully! ✅")
+
+        return connection
+
+    except Exception as e:
+        print("Connection Failed ❌")
+        print(e)
+        return None
+
+   
