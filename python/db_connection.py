@@ -10,8 +10,8 @@ def get_connection():
         password=os.getenv("password"), 
         account=os.getenv("account"), 
         warehouse="COMPUTE_WH", 
-        database="INVESCO_TRAINING", 
-        schema="EMPLOYEE_DATA" 
+        database=os.getenv('database'), 
+        schema=os.getenv("schema") 
     ) 
     print("Connected Successfully! ✅") 
     return connection

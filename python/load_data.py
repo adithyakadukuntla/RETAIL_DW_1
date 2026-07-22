@@ -24,10 +24,8 @@ for csv_file in dataset_path.glob("*.csv"):
     df = pd.read_csv(csv_file)
 
     df.columns = (
-        df.columns.str.strip()
-                  .str.replace(" ", "_")
-                  .str.upper()
-    )
+        df.columns.str.strip() 
+                  .str.replace(" ", "_"))
 
     df.to_sql(
         table_name,
